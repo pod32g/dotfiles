@@ -1,0 +1,5 @@
+alias ga='git add'
+alias gc='git commit'
+alias gp='git push origin'
+alias gl='git pull origin'
+alias gh='git checkout'
